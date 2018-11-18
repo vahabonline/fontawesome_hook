@@ -1,4 +1,11 @@
 <?php
+// --------------------------------------------------------
+// |                        Codeing by                    |
+// |                   Vahab Seyed Chorteh                |
+// |                   http://vahabonline.ir              |
+// |                    myvahab@gmail.com                 |
+// |                       09374655385                    |
+// --------------------------------------------------------
 function server_url(){
     $server ="";
     if(isset($_SERVER['SERVER_NAME'])){
